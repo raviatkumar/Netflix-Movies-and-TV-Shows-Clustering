@@ -1,7 +1,7 @@
 # Netflix-Movies-and-TV-Shows-Clustering
 ### Deployment using FastAPI
 
-###### Project Link: https://github.com/raviatkumar/Netflix-Movies-and-TV-Shows-Clustering/tree/main/deployment
+###### Project Link: https://github.com/raviatkumar/Netflix-Movies-and-TV-Shows-Clustering/tree/main/depolyment
 
 ## Tableau
 ![Alt text](https://raw.githubusercontent.com/raviatkumar/Netflix-Movies-and-TV-Shows-Clustering/main/Image/fun.PNG)
