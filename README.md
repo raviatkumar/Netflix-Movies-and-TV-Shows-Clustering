@@ -3,9 +3,6 @@
 
 ###### Project Link: https://github.com/raviatkumar/Netflix-Movies-and-TV-Shows-Clustering/tree/main/depolyment
 
-## Tableau
-![Alt text](https://raw.githubusercontent.com/raviatkumar/Netflix-Movies-and-TV-Shows-Clustering/main/Image/fun.PNG)
-
 ###### Link:https://public.tableau.com/views/Netflix-Movies-and-TV-Shows-Clustering/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 ## Introduction:
 
